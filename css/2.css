@@ -1,16 +1,3 @@
-body {margin: 0px}
 div.az { padding-left:0px; border-left:0px; border-top:0px; font-size:55px; font-family:Uran; width:100%; body-background:yellow; border-style:solid; height:400px; background-image:url(fon.jpg)}
-div.av { text-align:center; font-size:55px; font-family:Comic; margin: 0px 0px 0px 0px; height:1150px; background:yellow; background-image:url(fon.jpg)}
-div.ax { border-left:0px; border-right:0px; border-bottom:0px; border-top:0px; padding-left:15px; font-size:45px; font-family:Comic; padding-top:0px; margin-top:0px; width:300px; height:1850px; border-style:solid; background:yellow; background-image:url(fon.jpg)}
-div.ab { border-left:0px; padding-left:10px; font-size:35px; font-family:Comic; margin: 0px 0px 0px 0px; height:1850px; background:yellow; background-image:url(fon.jpg); padding-top:0px} 
-div.foot { padding-left:20px; background-image:url(fon.jpg) }
-div.ax::first-line {text-size:55px}
-div.ax::first-letter {color:red}
-a:link {text-decoration:none; color:black}
-a:visited {text-decoration:none; color:black}
-a:hover {color:red; text-decoration:underline}
-h1 {font-size:50px; text-align:center; text-decoration:underline}
-h1::first-letter {color:red}
-h1:hover {color:red}
 @font-face {font-family:Uran; src:url(Uran.ttf)}
 @font-face {font-family:Comic; src:url(comic.ttf)}
